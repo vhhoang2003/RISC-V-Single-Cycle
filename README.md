@@ -1,0 +1,1 @@
+This is a RISC V Single Cycle designed according to the following diagram![z6257548610738_b7e22d4ca9bfb08bfe5ed86104f69d2e](https://github.com/user-attachments/assets/5dbeabdf-75e5-46da-abba-5d1c117cb080)
